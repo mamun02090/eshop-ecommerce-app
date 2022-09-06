@@ -14,7 +14,7 @@ export default function ProductDescription(){
     const [checkStock, setCheckStock]= useState(false);
     const [newId, setNewId] = useState(0);
     const { currentUser } = useAuth();
-    const { uid } = currentUser;
+    const uid = currentUser?.uid;
     const {addToCart}= useCartHandle(uid, id)
     const {cartValue}= useCartItemCheck(uid, newId);
 
