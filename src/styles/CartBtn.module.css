@@ -1,0 +1,10 @@
+.button{
+    border: 1px solid orangered;
+    color: gray;
+    height: auto;
+}
+.button:hover{
+    color: #fff;
+    background-color: orangered;
+    border: none;
+}

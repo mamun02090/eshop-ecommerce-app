@@ -1,0 +1,192 @@
+{
+    "products": [
+        {
+            "productID": "Sh-01",
+            "name": "Asus Magic Trackpad (Wireless, Rechargable) - Black Multi-Touch Surface",
+            "price": 1500,
+            "MOQ": 1,
+            "catagories": "gadgets",
+            "stock": 25,
+            "imgLink": "https://m.media-amazon.com/images/I/71AGOX9MORL._AC_SX425_.jpg"          
+        },
+        {
+            "productID": "Sh-02",
+            "name": "Apple 35W Dual USB-C Port Compact Power Adapter",
+            "price": 1000,
+            "MOQ": 1,
+            "catagories": "gadgets",
+            "stock": 15,
+            "imgLink": "https://m.media-amazon.com/images/I/51fIu4EYuuL._AC_SX522_.jpg"   
+        },
+        {
+            "productID": "Sh-03",
+            "name": "Quaker Chewy Granola Bars, Chewy & Dipps Variety Pack, (58 Bars)",
+            "price": 2500,
+            "MOQ": 1,
+            "stock": 35,
+            "catagories": "groceries",
+            "imgLink": "https://m.media-amazon.com/images/I/817x89Wnc5S._SX679_.jpg"           
+        },
+        {
+            "productID": "Sh-04",
+            "name": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+            "price": 500,
+            "MOQ": 1,
+            "catagories": "gadgets",
+            "stock": 15,
+            "imgLink": "https://images-na.ssl-images-amazon.com/images/I/61Ei0ywt1lL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+        },
+        {
+            "productID": "Sh-05",
+            "name": "Dole Fruit Bowls Cherry Mixed Fruit in 100% Juice, Gluten Free Healthy Snack, 4 Oz, 12 Count",
+            "price": 1500,
+            "MOQ": 1,
+            "stock": 25,
+            "imgLink": "https://m.media-amazon.com/images/I/71AaPakIw0L._SX679_.jpg"           
+        },
+        {
+            "productID": "Sh-06",
+            "name": "Apple Magic Keyboard for iPad Pro 12.9-inch (5th, 4th and 3rd Generation) - US English - Black",
+            "price": 100500,
+            "MOQ": 1,
+            "stock": 5,
+            "imgLink": "https://m.media-amazon.com/images/I/71ILMKJDbLL._AC_SX385_.jpg"           
+        },
+        {
+            "productID": "Sh-07",
+            "name": "Apple Magic Mouse ​​​​​​​ (Wireless, Rechargable) - Black Multi-Touch Surface",
+            "price": 15000,
+            "MOQ": 1,
+            "stock": 25,
+            "imgLink": "https://m.media-amazon.com/images/I/515ehIbTetL._AC_SX466_.jpg"           
+        },
+        {
+            "productID": "Sh-08",
+            "name": "Cassida C100 Electronic Coin Sorter/Counter, Countable coins 1¢, 5¢, 10¢, 25¢, 250 coins/min, 110 VAC",
+            "price": 1500,
+            "MOQ": 1,
+            "stock": 25,
+            "imgLink": "https://m.media-amazon.com/images/I/91FkF+JoZZL._AC_SY355_.jpg"           
+        },
+        {
+            "productID": "Sh-09",
+            "name": "Simrad GO7 XSR - 7-inch Chartplotter with HDI Transducer, C-MAP Discover Chart Card, Black (000-14326-002)",
+            "price": 1500,
+            "MOQ": 1,
+            "stock": 5,
+            "imgLink": "https://m.media-amazon.com/images/I/71eAOse4dOL._AC_SX569_.jpg"   
+        },
+        {
+            "productID": "Sh-10",
+            "name": "Under Armour Men's Tech 2.0 Short-Sleeve T-Shirt",
+            "price": 2500,
+            "MOQ": 1,
+            "stock":25,
+            "imgLink": "https://m.media-amazon.com/images/I/61etE0tKyGL._AC_SX679_.jpg"   
+        }
+        
+    ],
+    "product-details": {
+        "Sh-01":{
+            "name": "Asus Magic Trackpad (Wireless, Rechargable) - Black Multi-Touch Surface",
+            "price": 1500,
+            "MOQ": 1,
+            "imgLink": "https://m.media-amazon.com/images/I/71AGOX9MORL._AC_SX425_.jpg",            
+            "stock": 25,
+            "color": ["black"],
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+            
+        },
+        "Sh-02":{
+            "name": "Apple 35W Dual USB-C Port Compact Power Adapter",
+            "price": 1000,
+            "MOQ": 1,
+            "imgLink": "https://m.media-amazon.com/images/I/51fIu4EYuuL._AC_SX522_.jpg",            
+            "stock": 15,
+            "color": ["silver"],
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+            
+        },
+        "Sh-03":{
+            "name": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+            "price": 500,
+            "MOQ": 1,
+            "imgLink": "https://m.media-amazon.com/images/I/817x89Wnc5S._SX679_.jpg",            
+            "stock": 5,
+            "color": ["black"],
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+            
+        },
+        "Sh-04":{
+            "name": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+            "price": 500,
+            "MOQ": 1,
+            "imgLink": "https://images-na.ssl-images-amazon.com/images/I/61Ei0ywt1lL.__AC_SX300_SY300_QL70_FMwebp_.jpg",            
+            "stock": 5,
+            "color": ["black"],
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+            
+        },
+        "Sh-05":{
+            "name": "Dole Fruit Bowls Cherry Mixed Fruit in 100% Juice, Gluten Free Healthy Snack, 4 Oz, 12 Count",
+            "price": 1500,
+            "MOQ": 1,
+            "imgLink": "https://m.media-amazon.com/images/I/71AaPakIw0L._SX679_.jpg",            
+            "stock": 25,
+            "color": ["black"],
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+            
+        },
+        "Sh-06":{
+            "name": "Apple Magic Keyboard for iPad Pro 12.9-inch (5th, 4th and 3rd Generation) - US English - Black",
+            "price": 100500,
+            "MOQ": 1,
+            "imgLink": "https://m.media-amazon.com/images/I/71ILMKJDbLL._AC_SX385_.jpg",            
+            "stock": 5,
+            "color": ["black"],
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+            
+        },
+        "Sh-07":{
+            "name": "Apple Magic Mouse ​​​​​​​ (Wireless, Rechargable) - Black Multi-Touch Surface",
+            "price": 15000,
+            "MOQ": 1,
+            "imgLink": "https://m.media-amazon.com/images/I/515ehIbTetL._AC_SX466_.jpg",            
+            "stock": 25,
+            "color": ["black"],
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+            
+        },
+        "Sh-08":{
+            "name": "Cassida C100 Electronic Coin Sorter/Counter, Countable coins 1¢, 5¢, 10¢, 25¢, 250 coins/min, 110 VAC",
+            "price": 1500,
+            "MOQ": 1,
+            "imgLink": "https://m.media-amazon.com/images/I/91FkF+JoZZL._AC_SY355_.jpg",            
+            "stock": 25,
+            "color": ["black"],
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+            
+        },
+        "Sh-09":{
+            "name": "Simrad GO7 XSR - 7-inch Chartplotter with HDI Transducer, C-MAP Discover Chart Card, Black (000-14326-002)",
+            "price": 1500,
+            "MOQ": 1,
+            "imgLink": "https://m.media-amazon.com/images/I/71eAOse4dOL._AC_SX569_.jpg",            
+            "stock": 5,
+            "color": ["black"],
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+            
+        },
+        "Sh-10":{
+            "name": "Under Armour Men's Tech 2.0 Short-Sleeve T-Shirt",
+            "price": 2500,
+            "MOQ": 1,
+            "imgLink": "https://m.media-amazon.com/images/I/61etE0tKyGL._AC_SX679_.jpg",            
+            "stock": 25,
+            "color": ["black","silver"], 
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+            
+        }
+
+    }
+}

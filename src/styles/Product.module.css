@@ -1,0 +1,36 @@
+.product{
+    display: flex;
+    margin: 10px;
+    flex-direction: column;
+    gap: 10px;
+    
+}
+.img{
+    width: 250px;
+    height: 250px;
+    margin: 0px auto;
+    text-align: center;
+}
+.product_details{
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 10px;
+}
+.product_name{
+    text-align: left;
+    height: 36px;
+    line-height: 18px;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    overflow: hidden;
+    margin-bottom: 4px;
+    font-size: 14px;
+}
+.outofstock{
+    background-color: rgb(186, 88, 88);
+    padding: 5px 10px;
+    color: #fff;
+    border-radius: 5px;
+}

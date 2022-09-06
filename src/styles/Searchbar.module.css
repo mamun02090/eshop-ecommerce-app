@@ -1,0 +1,30 @@
+.searchbar{
+    display: flex;
+    background-color: #f1f1f1;
+    width: 392px;
+    padding: 12px 10px;
+    border-radius: 5px;
+    align-items: center;
+}
+.icon{
+    font-size: 14px;
+    color: gray;
+    margin-left: 5px;
+}
+.search{
+    /* padding: 5px; */
+    border: none;
+    margin-left: 5px;
+    color: gray;
+    background-color: #f1f1f1;
+}
+.search:focus{
+    border: none;
+    outline: none;
+}
+
+@media (max-width:960px ){
+    .searchbar{
+        width: 280px;
+    }
+}

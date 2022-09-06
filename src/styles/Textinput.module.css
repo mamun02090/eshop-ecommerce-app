@@ -1,0 +1,26 @@
+.textInput {
+    width: 100%;
+    height: 50px;
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+    border-radius: 5px;
+    border: 1px solid #e5e5e5;
+    padding: 2px;
+  }
+  
+  
+  .textInput input, textarea {
+    border: none;
+    outline: none;
+    height: 100%;
+    width: 100%;
+    padding: 0.3rem 0.7rem;
+    background-color: #fff;
+    font-size: 16px;
+    font-weight: 500;
+  }
+  .textInput .svg-inline--fa{
+    color: #e5e5e5;
+    margin-right: 10px;
+  }

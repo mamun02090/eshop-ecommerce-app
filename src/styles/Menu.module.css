@@ -1,0 +1,28 @@
+nav .items{
+    text-decoration: none;
+    color: green;
+    background-color: white;
+    padding: 5px 10px;
+}
+.menu_nav{
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.catagories{
+    text-align: left;
+    color: gray;
+}
+.cat_headings{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    margin-bottom: 10px;
+}
+@media (max-width:600px){
+    .menu_nav{
+        gap: 10px;
+    }
+}

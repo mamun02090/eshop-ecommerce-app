@@ -1,0 +1,11 @@
+.contact_main{
+  max-width: 1184px;
+  margin: auto;
+}
+  .button{
+    color: #fff;
+    background-color: green;
+    border: none;
+    font-size: 16px;
+    font-weight: 600;
+  }

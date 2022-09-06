@@ -1,0 +1,19 @@
+.product_main{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-gap: 20px;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    margin-top: 20px;
+}
+
+.products {
+    box-shadow: 0px 3px 1px rgb(20 40 82 / 8%), 0px 24px 24px rgb(20 40 82 / 4%);
+  }
+  
+  @media only screen and (max-width: 600px) {
+    .products {
+      width: 90%;
+    }
+  }

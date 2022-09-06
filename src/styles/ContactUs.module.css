@@ -1,0 +1,29 @@
+.contact_main{
+    max-width: 1184px;
+    margin: auto;
+}
+.column {
+    display: grid;
+    grid-template-columns: 1fr;
+}
+
+.contact_button{
+    color: #fff;
+    background-color: green;
+    border: none;
+    font-size: 16px;
+    font-weight: 600;
+  }
+.contact_input{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+@media(min-width: 1023px){
+    .contact_button{
+        max-width: 200px;
+    }
+    .contact_button_div{
+        text-align: end;
+    }
+}

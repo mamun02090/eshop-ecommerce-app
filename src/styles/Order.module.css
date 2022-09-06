@@ -1,0 +1,16 @@
+.order_main{
+    max-width: 1184px;
+    background-color: #fff;
+    margin: auto;
+    box-shadow: 0px 3px 1px rgb(20 40 82 / 8%), 0px 24px 24px rgb(20 40 82 / 4%);
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+.order_container{
+    margin: 20px;
+}
+@media (max-width: 490px){
+    .order_container{
+        margin: 5px;
+    }
+}
