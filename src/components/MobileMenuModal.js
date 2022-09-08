@@ -10,11 +10,7 @@ const MobileMenuModal = ({ menuOpen, setMenuOpen}) => {
   return (
     menuOpen && <div className={classes.modal}>
                     <div className={classes.mobile_menu_nav}>
-                        <div onClick={()=> setMenuOpen(false)}>
-                            <NavLink to='/add_product' >
-                                <p>Add Product</p>
-                            </NavLink>
-                        </div>
+                        
                         <div onClick={()=> setMenuOpen(false)}>
                             <NavLink to='/contact_us' ><p>Contact Us</p></NavLink>
                         </div>

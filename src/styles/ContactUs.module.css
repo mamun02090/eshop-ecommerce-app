@@ -6,6 +6,14 @@
     display: grid;
     grid-template-columns: 1fr;
 }
+.phone_number input::-webkit-outer-spin-button,
+.phone_number input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+.phone_number input[type=number] {
+  -moz-appearance: textfield;
+}
 
 .contact_button{
     color: #fff;
